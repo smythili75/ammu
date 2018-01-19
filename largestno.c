@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main()
 {
-	int x=1,y=2,z=3;
+	int x,y,z;
+	scanf("%d%d%d",&x,&y,&z);
 	if(z>x&&z>y)
 	{
 		printf("%d largest number",z);
