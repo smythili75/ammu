@@ -26,6 +26,6 @@ void main()
 	}
 	i=0;
 	printf(" \n highest number %d",a[i]);
-	i=4;
+	i=2;
 	printf(" \n lowest number %d",a[i]);
 }
